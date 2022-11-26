@@ -6,13 +6,11 @@
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
-⚠ **Warning: In this project, I use your browser's personal memory to save information.**
-
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
 - 👨‍💻 Developed by pouria farahani
 
-- 📆 Created - 2022-11-18
+- 📆 Created - 2022-11-26
 
 - 🤖 Technologies Used - Html , css , js , React.js
 
