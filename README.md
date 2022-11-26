@@ -2,7 +2,7 @@
 
 ☑️ **To do list, you can do all your backlog with this app! (faster and more advanced than the previous version)**
 
-![view](https://user-images.githubusercontent.com/109727844/204102830-292bd64d-a83d-4f8f-b025-48e658792e2a.jpg)
+![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
 
 ![image psd (1)](https://user-images.githubusercontent.com/109727844/202760140-c6432fc4-83a5-4192-a3a7-1133f643ebf8.jpg)
 
